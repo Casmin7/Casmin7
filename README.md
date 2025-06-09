@@ -1,4 +1,4 @@
-# Cosmin C. (Casmin7)
+# Cosmin C.
 
 Hi welcome to my profile, you can check out my repositories below.
 
